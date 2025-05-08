@@ -1,1 +1,1 @@
-# Stock-Market-Analysis
+This project presents an interactive Power BI dashboard analyzing stock performance of four major NASDAQ-listed companies: Apple (AAPL), NVIDIA (NVDA), Meta (META), and Tesla (TSLA). The dashboard visualizes trends in stock prices, trade volumes, and explores the influence of market news on price movements.
