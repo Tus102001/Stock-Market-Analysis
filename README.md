@@ -13,3 +13,21 @@ NVIDIA Corporation (NVDA)
 Meta Platforms, Inc. (META)
 
 Tesla, Inc. (TSLA)
+Key Insights
+Comparative analysis of stock price trends across companies
+
+Volume analysis to identify peak trading periods
+
+Monthly and yearly performance metrics
+
+Impact of major news events on stock fluctuations (manually annotated)
+
+Moving averages and volatility indicators
+ Features
+Dynamic date filtering and company selection
+
+KPIs for opening price, closing price, high, low, and volume
+
+Line charts, bar graphs, and custom visuals for deep insights
+
+Clean, responsive layout for intuitive data exploration
