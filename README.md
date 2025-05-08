@@ -31,3 +31,4 @@ KPIs for opening price, closing price, high, low, and volume
 Line charts, bar graphs, and custom visuals for deep insights
 
 Clean, responsive layout for intuitive data exploration
+![image](https://github.com/user-attachments/assets/8d8093a7-c090-4ff2-9ed6-f01e8098c483)
