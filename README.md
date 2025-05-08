@@ -32,3 +32,7 @@ Line charts, bar graphs, and custom visuals for deep insights
 
 Clean, responsive layout for intuitive data exploration
 ![image](https://github.com/user-attachments/assets/8d8093a7-c090-4ff2-9ed6-f01e8098c483)
+![image](https://github.com/user-attachments/assets/e563e02f-95c9-484d-a3f4-c051ea40587a)
+![image](https://github.com/user-attachments/assets/b353d7b7-2586-4987-926a-c40a540d3b38)
+
+
